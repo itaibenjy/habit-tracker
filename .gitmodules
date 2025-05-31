@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/itaibenjy/habit-tracker-app.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/itaibenjy/habit-tracker-api.git
